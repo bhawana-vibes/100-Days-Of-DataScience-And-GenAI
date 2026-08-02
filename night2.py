@@ -1,0 +1,10 @@
+digits = {1,2,3,4,5}
+print(digits)
+print(type(digits))
+print(digits.pop())
+digits.add(6)
+print(digits)
+digits.remove(2)
+print(digits)
+digits.clear()
+print(digits)
